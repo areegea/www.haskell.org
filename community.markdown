@@ -69,6 +69,7 @@ There are a number of conferences and events featuring Haskell, some focusing on
 *   [Compose :: Melbourne (Melbourne, VIC, AU)](http://composeconference.org)
 *   [Curry On (Europe, roving)](http://www.curry-on.org/)
 *   [LambdAle (London, GB)](https://lambdale.org/)
+*   [Code Mesh LDN (London, GB)](https://codesync.global/conferences/code-mesh-ldn/)
 
 ### Hackathons
 
